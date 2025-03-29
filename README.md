@@ -1,6 +1,6 @@
-# TypeScript Scaffolding Project
+# TypeScript Scaffolding
 
-This project provides a basic scaffolding for starting a new TypeScript project. It includes a pre-configured setup with essential tools and configurations to streamline development.
+This repository provides a basic scaffolding for starting a new TypeScript project. It includes a pre-configured setup with essential tools and configurations to streamline development.
 
 ## Features
 
