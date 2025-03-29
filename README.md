@@ -14,7 +14,7 @@ This project provides a basic scaffolding for starting a new TypeScript project.
 
 1. Clone the repository:
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/ssamuel645/ts-scaffolding.git
   cd ts-scaffolding
   ```
 
